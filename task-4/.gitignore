@@ -1,0 +1,12 @@
+# Real local database credentials
+config/database.php
+
+# User uploaded images
+uploads/*
+!uploads/.gitkeep
+
+# Local files
+.env
+.vscode/
+.DS_Store
+Thumbs.db
